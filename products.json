@@ -1,0 +1,33 @@
+[
+    {
+        "id": 1,
+        "name":" Black",
+        "price": 2999 ,
+        "image": "image/product1.png"
+    },
+    {
+        "id": 2,
+        "name":" Red Black",
+        "price": 6999,
+        "image": "image/product2.png"
+    },
+    {
+        "id": 3,
+        "name":" Night Black",
+        "price": 5999,
+        "image": "image/product3.png"
+    },
+    {
+        "id": 4,
+        "name":" Blue",
+        "price": 3999,
+        "image": "image/product4.png"
+    },
+    {
+        "id": 5,
+        "name":" Twilight gray",
+        "price": 4999,
+        "image": "image/product5.png"
+    }
+
+]
